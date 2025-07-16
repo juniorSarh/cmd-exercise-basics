@@ -1,0 +1,51 @@
+Part 1: Navigation & File Basics
+1.C:\Users\Sabelo Gumede>
+2. Change Directory
+3.
+4. Yes, I am in :C:\Users\Sabelo Gumede\Desktop\cmd-exercise-basics> 
+5. Directory of C:\Users\Sabelo Gumede\Desktop\cmd-exercise-basics
+
+2025/07/16  14:31    <DIR>          .
+2025/07/16  14:30    <DIR>          ..
+2025/07/16  14:31                13 hello.txt
+               1 File(s)             13 bytes
+               2 Dir(s)  942 351 708 160 bytes free
+
+
+Part 2: File Handling
+
+6.File copied.
+7.NewFile
+8.Directory of C:\Users\Sabelo Gumede\Desktop\cmd-exercise-basics
+
+2025/07/16  14:37    <DIR>          .
+2025/07/16  14:30    <DIR>          ..
+2025/07/16  14:31                13 newfile.txt
+               1 File(s)             13 bytes
+               2 Dir(s)  942 351 720 448 bytes free
+
+
+Part 3: Fun & Productivity Tricks
+9. Cls clears the command line interface
+10.  IPv4 Address. . . . . . . . . . . : 192.168.1.67
+11.DATE 
+C:\Users\Sabelo Gumede\Desktop\cmd-exercise-basics> date /t
+2025/07/16
+
+TIME
+
+C:\Users\Sabelo Gumede\Desktop\cmd-exercise-basics>time /t
+14:40
+
+NEW FILE CREATED
+
+ Directory of C:\Users\Sabelo Gumede\Desktop\cmd-exercise-basics
+
+2025/07/16  14:41    <DIR>          .
+2025/07/16  14:30    <DIR>          ..
+2025/07/16  14:41    <DIR>          CSS
+2025/07/16  14:41    <DIR>          JS
+2025/07/16  14:31                13 newfile.txt
+2025/07/16  14:41    <DIR>          THML
+               1 File(s)             13 bytes
+               5 Dir(s)  942 338 183 168 bytes free
